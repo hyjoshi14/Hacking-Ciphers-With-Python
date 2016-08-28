@@ -1,4 +1,4 @@
-## Finding Prime Numbers ##
+## Chapter 23 - Finding Prime Numbers ##
 
 ## A prime number is an integer that is greater than 1 and has only two factors:
 ## 1 and itself. There are an infinite number of prime numbers and there is no 'largest'
